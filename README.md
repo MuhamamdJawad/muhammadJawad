@@ -1,4 +1,4 @@
-
+![logo](https://github.com/MuhamamdJawad/muhammadJawad/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner%20new.png)
 <h1 align="center">Hi 👋, I'm Muhammad Jawad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
