@@ -6,6 +6,8 @@
  
 Hi there! 👋 My name is Muhammad Jawad and I am a 3rd sem computer science student at Air University, Islamabad. My passion lies in web development. I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of computer science. I am also a team player and a creative developer who is always looking for ways to improve and take on new challenges. I have a love for the beauty of the clouds and sky and.
 
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/112897469/215462840-30794c2d-bd9a-49c7-82a2-c48f1a56ffc3.png)"
+>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@muhammad_jawad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@muhammad_jawad" height="30" width="40" /></a>
