@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Jawad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-## :sassy_man: About me
+ ## :sassy_man: About me
+ 
 Hi there! 👋 My name is Muhammad Jawad and I am a 3rd sem computer science student at Air University, Islamabad. My passion lies in web development. I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of computer science. I am also a team player and a creative developer who is always looking for ways to improve and take on new challenges. I have a love for the beauty of the clouds and sky and.
 
 <h3 align="left">Connect with me:</h3>
@@ -37,6 +38,6 @@ Hi there! 👋 My name is Muhammad Jawad and I am a 3rd sem computer science stu
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadjawad&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"
         alt="abdullahqaisar" height="192px" />
     <br />
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect
-    experience or skill level.
-</p>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamamdjawad&label=Profile%20views&color=0e75b6&style=flat" alt="muhamamdjawad" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamamdjawad" alt="muhamamdjawad" /></a> </p></p>
